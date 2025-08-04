@@ -35,7 +35,7 @@ const Services = () => {
   ];
 
   return (
-    <section className="h-screen flex items-center justify-center bg-gray-50">
+    <section className="h-screen flex items-center justify-center">
       <main className="px-20">
         <div className="grid grid-cols-3  gap-5 p-4 ">
           {tableservices.map((ser, index) => (

@@ -1,6 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Homme from "@/components/Home";
 import Services from "@/components/Services";
+import About from "@/components/About";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
         <Homme />
       </section>
       <Services />
+      <About />
     </main>
   );
 }

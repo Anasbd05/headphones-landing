@@ -6,3 +6,6 @@
 .clip {
   clip-path: polygon(0 0, 100% 0, 100% 89%, 0% 100%);
 }
+.icon-about {
+  font-size: 30px;
+}
