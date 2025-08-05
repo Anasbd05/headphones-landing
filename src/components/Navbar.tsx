@@ -3,7 +3,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className=" py-5 px-20 flex sticky top-0 shadow-md backdrop-blur-md items-center justify-between ">
+    <div className=" py-5 px-20 flex sticky shadow-md backdrop-blur-md items-center justify-between ">
       <h1 className="text-3xl font-bold">
         Head<span className="text-white">Phones</span>
       </h1>
